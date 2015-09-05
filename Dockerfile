@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Ryan Ratcliff <ryan@ryanratcliff.net>
+MAINTAINER Ryan Ratcliff <ryan.ratcliff@ryanratcliff.net>
 ENV refreshed_at 2014-11-26
 
 RUN apt-get -yqq update
